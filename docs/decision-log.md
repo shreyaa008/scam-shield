@@ -77,7 +77,6 @@
 - Bigger or smaller network: (not tried yet)
 
 **Comparison so far (spam class):**
-|-------------------------------|-----------|--------|------|--------------|--------------|
 | Model                         | Precision | Recall | F1   | Missed scams | False alarms |
 |-------------------------------|-----------|--------|----  |--------------|--------------|
 | Logistic regression           | 1.00      | 0.76   | 0.86 | 36           | 0            |
