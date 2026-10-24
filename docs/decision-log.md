@@ -89,6 +89,3 @@
 
 **Interview answer:**
 - How does a neural network learn? -> (write this yourself in 2 to 3 sentences using guess, loss, adjust)
-
-**What confused me:**
--
